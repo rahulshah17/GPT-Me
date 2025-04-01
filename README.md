@@ -1,12 +1,14 @@
 # GPT-Me: Fine-Tuned LLM + React + FastAPI
 
-![React + FastAPI Fullstack App](./image.png)
-
 ## Overview
 
 **GPT-Me** is a personalized AI chatbot trained on the professional and academic data of **Rahul Hemal Shah**. This application combines a **React frontend** with a **FastAPI backend**, powered by a **4-bit quantized LLaMA 3.2 3B model** fine-tuned using **LoRA** adapters.
 
 It supports inference through both a **web interface (Gradio)** and a **production-ready API**.
+
+---
+
+![React + FastAPI Fullstack App](./image.png)
 
 ---
 
