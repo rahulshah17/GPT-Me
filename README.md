@@ -113,4 +113,4 @@ pip install gradio evaluate nltk bert-score rouge_score sentence-transformers
 
 ---
 ## 🧑‍💻 About
-Built and fine-tuned by Rahul Hemal Shah, a CS grad student at UMass Amherst, currently a Graduate Researcher at Spotify.
+Built and fine-tuned by Rahul Hemal Shah, a CS grad student at UMass Amherst, Linkedin: [[Linkedin](https://www.linkedin.com/in/rahulshah1799/)]
