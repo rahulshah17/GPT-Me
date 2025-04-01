@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+torch
+transformers
+peft
+huggingface_hub
+bitsandbytes
